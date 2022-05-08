@@ -1,5 +1,6 @@
 # SpidySallaniyor<br/>
  One of the games I developed while learning unity<br/>
+ ![giphy](https://user-images.githubusercontent.com/73588777/167300709-cef8af9d-501b-4c4f-be5d-dc156619ad78.GIF)  <br/>
 
 What i learned while developing this game:<br/>
 
