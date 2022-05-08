@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 263
+  controlID: 115
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 264
+  controlID: 75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 265
+  controlID: 51
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,7 +331,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -344,7 +344,7 @@ MonoBehaviour:
       y: 21
       width: 629
       height: 315
-    m_Scale: {x: 0.43750003, y: 0.4375}
+    m_Scale: {x: 0.46666667, y: 0.46666667}
     m_Translation: {x: 314.5, y: 157.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -352,12 +352,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -718.8571
-      y: -360
-      width: 1437.7142
-      height: 720
+      x: -673.9286
+      y: -337.5
+      width: 1347.8572
+      height: 675
     m_MinimalGUI: 1
-  m_defaultScale: 0.4375
+  m_defaultScale: 0.46666667
   m_LastWindowPixelSize: {x: 629, y: 336}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -393,8 +393,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 6e3c0000
+      m_LastClickedID: 15470
       m_ExpandedIDs: 60fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -614,7 +614,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000723d000000ca9a3b
+    m_ExpandedIDs: 00000000723d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -641,7 +641,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000344a00000a3a0000483f0000044900006439000048390000f0390000b4390000ae390000c43900008a39000088390000c6390000f84700000a480000c64d00002c4f00006a4d0000a43a0000b247000094390000d04b00007a54000006630000d2630000fa3b0000043c000008470000ba3a0000de470000184900007a390000bc390000b6390000de3900000c5a0000425a0000363e0000505600009e3900004253000032530000525300002e530000e0390000543a0000f6540000303a00003c3a0000403a0000e83a0000e43a0000b4420000b2370000b4370000024900002e490000803e0000ee3a0000dc3c0000b83c0000ec3c0000c43c0000c03c00005a3c0000623b0000643c00009e4900008a430000566600000c3c000032670000c83d0000cc3d0000c83c0000cc3c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
